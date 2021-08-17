@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Español\\Documents\\GitHub\\PrimerLaboratorioPersona\\Persona\\Persona\\Persona.csproj": {}
+    "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\Clases-generales\\PrimerLaboratorioPersona\\Persona\\Persona\\Persona.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Español\\Documents\\GitHub\\PrimerLaboratorioPersona\\Persona\\Persona\\Persona.csproj": {
+    "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\Clases-generales\\PrimerLaboratorioPersona\\Persona\\Persona\\Persona.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Español\\Documents\\GitHub\\PrimerLaboratorioPersona\\Persona\\Persona\\Persona.csproj",
+        "projectUniqueName": "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\Clases-generales\\PrimerLaboratorioPersona\\Persona\\Persona\\Persona.csproj",
         "projectName": "Persona",
-        "projectPath": "C:\\Users\\Español\\Documents\\GitHub\\PrimerLaboratorioPersona\\Persona\\Persona\\Persona.csproj",
-        "packagesPath": "C:\\Users\\Español\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Español\\Documents\\GitHub\\PrimerLaboratorioPersona\\Persona\\Persona\\obj\\",
+        "projectPath": "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\Clases-generales\\PrimerLaboratorioPersona\\Persona\\Persona\\Persona.csproj",
+        "packagesPath": "C:\\Users\\Monta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\Clases-generales\\PrimerLaboratorioPersona\\Persona\\Persona\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Español\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Monta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,13 @@
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PrimerLaboratorioPersona\Persona\Persona\bin\Debug\netcoreapp3.1\Persona.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PrimerLaboratorioPersona\Persona\Persona\bin\Debug\netcoreapp3.1\Persona.deps.json
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PrimerLaboratorioPersona\Persona\Persona\bin\Debug\netcoreapp3.1\Persona.runtimeconfig.json
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PrimerLaboratorioPersona\Persona\Persona\bin\Debug\netcoreapp3.1\Persona.runtimeconfig.dev.json
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PrimerLaboratorioPersona\Persona\Persona\bin\Debug\netcoreapp3.1\Persona.dll
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PrimerLaboratorioPersona\Persona\Persona\bin\Debug\netcoreapp3.1\Persona.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PrimerLaboratorioPersona\Persona\Persona\obj\Debug\netcoreapp3.1\Persona.csproj.AssemblyReference.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PrimerLaboratorioPersona\Persona\Persona\obj\Debug\netcoreapp3.1\Persona.AssemblyInfoInputs.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PrimerLaboratorioPersona\Persona\Persona\obj\Debug\netcoreapp3.1\Persona.AssemblyInfo.cs
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PrimerLaboratorioPersona\Persona\Persona\obj\Debug\netcoreapp3.1\Persona.csproj.CoreCompileInputs.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PrimerLaboratorioPersona\Persona\Persona\obj\Debug\netcoreapp3.1\Persona.dll
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PrimerLaboratorioPersona\Persona\Persona\obj\Debug\netcoreapp3.1\Persona.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PrimerLaboratorioPersona\Persona\Persona\obj\Debug\netcoreapp3.1\Persona.genruntimeconfig.cache

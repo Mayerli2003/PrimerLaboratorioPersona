@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Persona.Entidades;
+using Persona.Negocio;
+using System;
 
 namespace Persona
 {
@@ -6,7 +8,16 @@ namespace Persona
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ClsPersona clspersona = new ClsPersona();
+            NClsPersona nclspersona= new NClsPersona();
+            clspersona.Nombre = "Martin";
+            
+
+            Console.WriteLine(nclspersona.Hablar(clspersona));
+
+            Console.ReadLine();
+
+
         }
     }
 }
